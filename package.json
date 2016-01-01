@@ -10,7 +10,7 @@
     "type": "git",
     "url": "-"
   },
-  "author": "dan and greg",
+  "author": "greg lubin",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^0.8.5",
